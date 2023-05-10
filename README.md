@@ -48,8 +48,8 @@ End the program.
 
 ```python
 
-Developed By: Javith farkhan. S
-Register Number: 212221240017
+Developed By: Anto Richard. S
+Register Number: 212221240005
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ```
@@ -68,7 +68,7 @@ import numpy as np
 
 # Read the Image and convert to grayscale:
 
-image=cv2.imread("carss.jpg")
+image=cv2.imread("samm.webp")
 image1=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 ```
