@@ -49,7 +49,7 @@ End the program.
 ```python
 
 Developed By: Javith Farkhan S
-Register Number: 212221240017
+Register Number:212221240017
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ```
@@ -68,7 +68,7 @@ import numpy as np
 
 # Read the Image and convert to grayscale:
 
-image=cv2.imread("samm.webp")
+image=cv2.imread("carss.jpg")
 image1=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 
 ```
@@ -127,25 +127,35 @@ for i in range(0,9):
 ## Output:
 
 ### Original Image:
-![j1](https://github.com/Javith-farkhan/Thresholding/assets/94296805/f4a5a773-eb3d-45d6-b8e6-02dbf6ea4133)
+
+![Di9 1](https://github.com/Javith-farkhan/Thresholding/assets/94296805/47ecaeb1-11d4-40bb-b863-23260b705036)
 
 
 ### Global Thresholding:
-![j2](https://github.com/Javith-farkhan/Thresholding/assets/94296805/4538afad-1ce9-4ffa-a9e7-a99c9e5b20a4)
-![j3](https://github.com/Javith-farkhan/Thresholding/assets/94296805/947317ed-84f5-44f9-b554-6762cfb0fb64)
-![j4](https://github.com/Javith-farkhan/Thresholding/assets/94296805/b154f0cf-10a5-48b6-a5d0-cf909d7da741)
-![j5](https://github.com/Javith-farkhan/Thresholding/assets/94296805/035605b9-1623-4b49-80de-b6196e041b88)
-![j6](https://github.com/Javith-farkhan/Thresholding/assets/94296805/09e9060a-9f41-4e21-8e7e-adac707a081e)
 
+![di9 2](https://github.com/Javith-farkhan/Thresholding/assets/94296805/77d63281-93a8-4c88-bd5a-b2063b67e5f3)
+
+![Di9 3](https://github.com/Javith-farkhan/Thresholding/assets/94296805/6579a32e-c5ce-40ac-9b79-d4c0008c7f5d)
+
+![Di9 4](https://github.com/Javith-farkhan/Thresholding/assets/94296805/5be34dfa-9930-4643-983f-7d41c5160cb4)
+
+![Di9 5](https://github.com/Javith-farkhan/Thresholding/assets/94296805/ee81cfcd-5866-4065-82d1-7485f6e7ac71)
+
+![Di9 6](https://github.com/Javith-farkhan/Thresholding/assets/94296805/a257c2c2-fa7c-4caf-ab4d-e59b17cee122)
 
 
 ### Adaptive Thresholding:
-![j7](https://github.com/Javith-farkhan/Thresholding/assets/94296805/31eb80ca-f988-4e85-8ce3-507252ec459b)
-![j8](https://github.com/Javith-farkhan/Thresholding/assets/94296805/7e8e6c25-ef2a-4b5b-a154-411c58d2018b)
+
+![Di9 7](https://github.com/Javith-farkhan/Thresholding/assets/94296805/6c0aa75d-4957-413d-815c-115a3cdbdd6e)
+
+![Di9 8](https://github.com/Javith-farkhan/Thresholding/assets/94296805/113d1393-1f91-4de6-b898-6f2eb1f36621)
+
 
 
 ### Optimum Global Thesholding using Otsu's Method:
-![jl](https://github.com/Javith-farkhan/Thresholding/assets/94296805/9d27f800-8046-4a30-a0c7-d2e8c868d5a0)
+
+![Di9 9](https://github.com/Javith-farkhan/Thresholding/assets/94296805/a2101fba-9db6-4d3a-91b1-6fae9e92ab28)
+
 
 
 ## Result
