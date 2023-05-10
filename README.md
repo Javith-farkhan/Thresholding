@@ -48,8 +48,8 @@ End the program.
 
 ```python
 
-Developed By: Anto Richard. S
-Register Number: 212221240005
+Developed By: Javith Farkhan S
+Register Number: 212221240017
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ```
@@ -127,20 +127,26 @@ for i in range(0,9):
 ## Output:
 
 ### Original Image:
+![j1](https://github.com/Javith-farkhan/Thresholding/assets/94296805/f4a5a773-eb3d-45d6-b8e6-02dbf6ea4133)
 
-![out1](https://user-images.githubusercontent.com/93427534/235313724-f55acab3-f242-49dc-9999-619be56d7b02.png)
 
 ### Global Thresholding:
+![j2](https://github.com/Javith-farkhan/Thresholding/assets/94296805/4538afad-1ce9-4ffa-a9e7-a99c9e5b20a4)
+![j3](https://github.com/Javith-farkhan/Thresholding/assets/94296805/947317ed-84f5-44f9-b554-6762cfb0fb64)
+![j4](https://github.com/Javith-farkhan/Thresholding/assets/94296805/b154f0cf-10a5-48b6-a5d0-cf909d7da741)
+![j5](https://github.com/Javith-farkhan/Thresholding/assets/94296805/035605b9-1623-4b49-80de-b6196e041b88)
+![j6](https://github.com/Javith-farkhan/Thresholding/assets/94296805/09e9060a-9f41-4e21-8e7e-adac707a081e)
 
-![out2](https://user-images.githubusercontent.com/93427534/235313731-c6c83910-fc14-47f7-878e-b77fe2a354bc.png)
+
 
 ### Adaptive Thresholding:
+![j7](https://github.com/Javith-farkhan/Thresholding/assets/94296805/31eb80ca-f988-4e85-8ce3-507252ec459b)
+![j8](https://github.com/Javith-farkhan/Thresholding/assets/94296805/7e8e6c25-ef2a-4b5b-a154-411c58d2018b)
 
-![out3](https://user-images.githubusercontent.com/93427534/235313737-b5b4a29d-db56-4c29-9f31-314f283911ac.png)
 
 ### Optimum Global Thesholding using Otsu's Method:
+![jl](https://github.com/Javith-farkhan/Thresholding/assets/94296805/9d27f800-8046-4a30-a0c7-d2e8c868d5a0)
 
-![out4](https://user-images.githubusercontent.com/93427534/235313743-85a80722-3aaf-406c-9047-be558019cc3f.png)
 
 ## Result
 
